@@ -2,7 +2,7 @@
 
 Установка пакетов: `npm install`
 
-Установка playwright: `npx playwright install`, `npx playwright install-deps`
+Установка playwright: `npx playwright install`, `npx playwright install --with-deps`
 
 Запуск веб-сервера: `npm start`
 
